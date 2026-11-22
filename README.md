@@ -13,7 +13,7 @@ AI 코딩 에이전트를 TypeScript로 바닥부터 직접 만들어 보는 학
 | 5    | 승인 게이트 → 셸·파일 수정 도구        | 장난감 저장소의 버그를 스스로 고친다    |
 | 6    | 긴 출력 자르기 · 요약 · 캐싱           | 긴 작업에서도 안 터지고 비용이 줄어든다 |
 
-[ts-monorepo-template](https://github.com/Han5991/ts-monorepo-template)에서 만들었다. 지켜야 할 규칙을 문서에 적어 두는 대신
+[ts-monorepo-template](https://github.com/sangwook-dev/ts-monorepo-template)에서 만들었다. 지켜야 할 규칙을 문서에 적어 두는 대신
 **lint·타입·테스트·git hook이 막게** 해 두었다.
 
 ## 무엇이 막히나
